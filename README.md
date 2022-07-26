@@ -5,9 +5,17 @@ Instead of the user having a visual character to move around with keys (Ex. wasd
 
 Character creation, Currency, Combat, Skills, Leveling, Items, Inventory, etc can all be built through the menus for the player to pick options from.
 
-Ex.
+Just an example of how a menu could be:
 Character Creation:
 The user would receive a list of options to customize their character, ranging from name to looks, skills to professions.
+
+
+# Story
+   We take you to a world known as Internet. Internet was once a peaceful place but a growing power has taken over!
+The evil villain known as Browser and his unrelenting Consumers has left the world in turmoil. In times of darkness tales
+of an epic hero being able to harness the power of React to stop Browser start to become more than rumors.... We take you to
+a local city called Assembly and introduce you to our unsuspecting framework known as Django, and his trusty Steed Python...
+
 
 # TODO list:
 1. Create a demo page
